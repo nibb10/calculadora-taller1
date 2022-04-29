@@ -10,8 +10,22 @@
     border: black 3px solid;
     
 }
+.keysop{
+        background-color: blue;
+        color: white;
+        display: flex;
+        justify-content: center;
+        border: red 1px solid;
+        height: 50px;
+        width: 23%;
+        break-inside: avoid;
+        margin: 5px;
+        text-align: center;
 
+}
 .keytop{
+    background-color: blue;
+    color: white;
   display: flex;
   justify-content: center;
   border: red 1px solid;
